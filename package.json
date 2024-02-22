@@ -1,6 +1,6 @@
 {
   "name": "cyx01playerai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,12 @@
   },
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/YixinChen-AI/cyx01playerAI"
+    "url": "git+https://github.com/YixinChen-AI/cyx01playerAI"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
-  
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^4.5.0"
+  }
 }
